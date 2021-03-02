@@ -1,7 +1,7 @@
 # Safeguarding and Anti-Harassment
 The safety of children, vulnerable adults, and all attendees are a top priority for Tokonatsu. Thus, it is a mandatory requirement for running our event that we have a Safeguarding Policy in place, and visible to the general public. This will be made up of the following details:
 
-* [The Anti-Harassment Policy (Public Version)](safegarding-policy.md)
+* [The Anti-Harassment Policy (Public Version)](safeguarding-policy.md)
   * This can be split into small versions or a specific version generated if required
 * [The Safeguarding Incident Procedure](safeguarding-incident-procedure.md)
 * [Named Safeguarding Offices (SGOs)](safeguarding-officers.md)
