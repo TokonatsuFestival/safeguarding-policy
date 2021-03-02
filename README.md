@@ -13,8 +13,7 @@ have worked on these policies, and while we have attempted to cover all
 possible areas, there might be something you will be able to add to it. 
 
 ## Contributing
-While we setup this repo, feel free to open any pull requests! We shall
-endeavour to update this section as soon as we can!
+You can find details on contributing through the [contribution file](CONTRIBUTING.md).
 
 ## The Documentation
 *Work in progress - while we copy our policies into this repo, some documentation maybe missing*!
