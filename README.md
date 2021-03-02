@@ -17,3 +17,4 @@ You can find details on contributing through the [contribution file](CONTRIBUTIN
 
 ## The Documentation
 * [Safeguarding / Anti-Harassment Policies Index](policies/README.md)
+* [Safeguarding Flowcharts Index](flowcharts/README.md)
