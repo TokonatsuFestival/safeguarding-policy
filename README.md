@@ -1,4 +1,4 @@
-# Tokonatsu's Safe Guarding and Anti-Harassment Policies
+# Tokonatsu's Safeguarding and Anti-Harassment Policies
 We at Tokonatsu recognise the need of an easily accessible, safe, and inclusive
 environment for all our attendees, volunteers, employees, and third parties. To
 ensure that our policies and processes are fully accessible we have published
@@ -16,5 +16,4 @@ possible areas, there might be something you will be able to add to it.
 You can find details on contributing through the [contribution file](CONTRIBUTING.md).
 
 ## The Documentation
-*Work in progress - while we copy our policies into this repo, some documentation maybe missing*!
-* [Safe Guarding / Anti-Harassment Policy on the public website](policies/safeguarding-policy.md)
+* [Safeguarding / Anti-Harassment Policies Index](policies/README.md)

@@ -1,4 +1,4 @@
-# Tokonatsu's Safe Guarding Policy
+# Tokonatsu's Safeguarding Policy
 
 ## Introduction
 Recognising the importance of the Equality Act 2010, Tokonatsu is committed to providing a safe space in all its functions and events, for all employees, attendees, guests and third parties. We understand that discrimination, bullying and harassment in all its forms are intolerable, and safeguarding against such acts is the responsibility of everyone in the community.
