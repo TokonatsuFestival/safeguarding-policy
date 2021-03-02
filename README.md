@@ -18,4 +18,4 @@ endeavour to update this section as soon as we can!
 
 ## The Documentation
 *Work in progress - while we copy our policies into this repo, some documentation maybe missing*!
-* [policies/safeguarding-policy.md](Safe Guarding / Anti-Harassment Policy on the public website)
+* [Safe Guarding / Anti-Harassment Policy on the public website](policies/safeguarding-policy.md)
