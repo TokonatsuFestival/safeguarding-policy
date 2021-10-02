@@ -3,6 +3,7 @@
 * Adam Hay
 * Anna Parker
 * Colum McKenna
-* Daniel Darlington
 * David Walters
+* Elli Seta
+* Kurt Schofield
 * Jay White
