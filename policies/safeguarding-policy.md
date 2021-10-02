@@ -19,8 +19,9 @@ To effectively execute this policy, Tokonatsu has designated Safeguarding Office
 * Adam Hay
 * Anna Parker
 * Colum McKenna
-* Daniel Darlington
 * David Walters
+* Elli Seta
+* Kurt Schofield
 * Jay White
 
 These individuals are responsible for overseeing Safeguarding incidents on-site, during events, and within Tokonatsu’s organisation. Exceptional circumstances notwithstanding, all are present during Tokonatsu’s core operations to ensure this policy is enacted to its fullest.
@@ -36,4 +37,4 @@ In the exceptional circumstance that no Safeguarding Officer is immediately avai
 This policy will be made accessible to all individuals on-site during the festival proceedings, in both its full form and a condensed form that provides contact information for all Safeguarding Officers available at Tokonatsu functions. It will be made available to any who request to see the document in its full form and will be accessible on both the Tokonatsu website and with all its official policies for Staff at the Tokonatsu Campfire (Confluence).
 
 ## Other details
-Document Version v1.1 - 27/02/2021
+Document Version v1.2 - 02/10/2021
